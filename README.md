@@ -34,7 +34,7 @@ ai-qr-generator/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/ai-qr-generator.git
+git clone https://github.com/PabitraBhandari/MSCS633_AI_QR_Code_Generator.git
 cd ai-qr-generator
 ```
 
