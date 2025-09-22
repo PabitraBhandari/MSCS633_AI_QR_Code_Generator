@@ -88,19 +88,6 @@ python qr_generator.py \
 
 ---
 
-## Screenshot
-(Add your generated screenshot here for submission)
-
----
-
-## Deliverables
-- Source code (.py files)  
-- manifest.md (technical description & instructions)  
-- README.md (this file, student/GitHub facing)  
-- Word document with screenshot + GitHub repo link  
-
----
-
 ## License
 This project is submitted as part of coursework for University of the Cumberlands, MSCS-633 (Fall 2025).  
 Use is permitted for educational purposes only.
