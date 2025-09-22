@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Output images
+/output/
+
+# IDE & editor settings
+.vscode/
+.idea/
+*.swp
+
+# MacOS system files
+.DS_Store
